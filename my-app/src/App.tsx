@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          This is Nabiha Syed's personal website. This is an edit but theres no source code
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
